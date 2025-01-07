@@ -1,8 +1,9 @@
 <h2> Shadow the Hedgehog Image </h2>
 
 <p align="center">
-img here
-  </p>
+
+  https://github.com/toni20k5267/The-Ultimate-Lifeform-ify/blob/main/assets/images/30.png?raw=true
+</p>
 
 Programmed by [Liam](https://www.youtube.com/@puffbee21)
 Upgrade by [MaciejDotDev](https://github.com/MaciejDotDev/)
