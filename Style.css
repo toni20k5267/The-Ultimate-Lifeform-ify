@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Copperplate Gothic Std 33 BC', sans-serif;
+    background-color: #e01a1a;
+    border: #000000;
+    display: grid;
+    grid-template-rows: 1fr auto;
+    min-height: 360px;
+    width: 400px;
+
+}
+
+/* the popup class */
+.popup{
+
+}
+
+/* the popup content */
+
+.popup-content{
+
+}
+
+/* the popup image */
+
+.popup-img{
+    transform: translateY(10px);
+    transition: 0.3s;
+    overflow: hidden;
+    position: absolute;
+    bottom: -40%; 
+
+}
+
+/* img hover effect */
+.popup-img:hover{
+    transform: translate(0, -140px);
+    transition: 0.3s;
+}
+
+/*
+#506372	(80,99,114)
+#51556d	(81,85,109)
+#5a6287	(90,98,135)
+#595289	(89,82,137)
+#4c4a76 (76,74,118)
+*/
