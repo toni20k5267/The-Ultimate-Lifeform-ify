@@ -1,4 +1,4 @@
-<h2> Shadow the Hedgehog - The ultimate lifeform. </h2>
+<h2> Shadow the Hedgehog - The Ultimate Lifeform. </h2>
 
 ![image](https://github.com/user-attachments/assets/74cab66d-3f26-4098-b8bd-0fbf141e62ce)
 
@@ -22,12 +22,15 @@ This extension was originally made as a submission for Jshlatt's Shark Tank Pitc
 
 Then it was forked and upgraded bt MaciejDotDev.
 
-And then, forked by me, toni20k5267, to have Shadow The Hedgehog, the ultimate lifeform :333
+And then, forked by me, toni20k5267, to have Shadow The Hedgehog, the Ultimate Lifeform :333
 
 # The image 23.png's artits is [u/ConferenceMean8503](https://www.reddit.com/user/ConferenceMean8503/) on Reddit, so a big shoutout to them. The rest of the artists of images in this extension is unknown to me, because I was not able to find the original image/post, or it's Sega. If you are an artist of one of the images here, please reach out to me through an issue, and provide enough evidence of being the artist for me to believe.
 
 
 So, basically, i got some Shadow images from the internet, edited them to have as little non-needed items sticking out, some i had to paint additional stuff to, and boom, Shadow The Hedgehog is on every youtube thumbnail. Also, i forked Komify, because for some weird reason, i wasn't able to get it working with Jambofy. I dont know why.
 
-# HOW TO GET THE EXTENSION TO WORK
+# HOW TO GET AND INSTALL THE EXTENSION
 you download the zip file, you unpack it, you go to chrome://extensions, you turn on Developer Mode, you click load unpacked and you select the folder in which the extension is in(the one where README.md is)
+
+<br><br>
+## As much as i would love to get this extension to the Google Chrome Web Store, I won't try because of copyrights Sega holds over Shadow. I dont wanna screw with that, nor do I have the time.
