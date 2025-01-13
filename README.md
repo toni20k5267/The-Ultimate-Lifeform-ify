@@ -20,9 +20,9 @@ T̵̡̤̰̑͊̀̓̌̀͂͝H̷̛͈͉͈͕̥̹̆̾͐͜E̶̡̬̥̍͌͆ ̴̞̮͍̣͉̗
 
 This extension was originally made as a submission for Jshlatt's Shark Tank Pitch Stream in late 2023.
 
-Now it has been improved significantly by utilising AI frameworks to retroactively apply Komis.
+Then it was forked and upgraded bt MaciejDotDev.
 
-And forked by me, toni20k5267, to have Shadow The Hedgehog, the ultimate lifeform :333
+And then, forked by me, toni20k5267, to have Shadow The Hedgehog, the ultimate lifeform :333
 
 # The image 23.png's artits is [u/ConferenceMean8503](https://www.reddit.com/user/ConferenceMean8503/) on Reddit, so a big shoutout to them. The rest of the artists of images in this extension is unknown to me, because I was not able to find the original image/post, or it's Sega. If you are an artist of one of the images here, please reach out to me through an issue, and provide enough evidence of being the artist for me to believe.
 
