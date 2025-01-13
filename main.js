@@ -108,10 +108,15 @@
             })
         }
 
-        //runs the functions
-        if(isEnabled) //checks if the user has disabled the plugin or not
-        {
-            setInterval(getThumbnails, 100);
-        }
+        
+        //runs the function
+        chrome.storage.local.get('isEnabled', function(result) {
+            var isEnabled = result.isEnabled;
+            if (isEnabled) {
+                setInterval(getThumbnails, 100);
+            } else {
+                // Disabled
+            }
+        });
     }
 )();

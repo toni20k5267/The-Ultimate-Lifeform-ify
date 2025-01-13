@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "The Ultimate Lifeform-ify",
   "version": "0.2.6",
-  "description": "Shadow the Hedgehog Extension based on the Komify extension , adds Shadow the Hedgehog to thumbnails",
+  "description": "Shadow the Hedgehog Extension based on the Komify extension, adds Shadow the Hedgehog to thumbnails",
   "host_permissions": [ "https://www.youtube.com/*"],
   "content_scripts":
   [
@@ -39,5 +39,6 @@
     "32": "assets/icons/icon32.png",
     "64": "assets/icons/icon64.png",
     "128": "assets/icons/icon128.png"
-  }
+  },
+  "permissions": ["storage"]
 }
