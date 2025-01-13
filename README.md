@@ -20,7 +20,7 @@ T̵̡̤̰̑͊̀̓̌̀͂͝H̷̛͈͉͈͕̥̹̆̾͐͜E̶̡̬̥̍͌͆ ̴̞̮͍̣͉̗
 
 This extension was originally made as a submission for Jshlatt's Shark Tank Pitch Stream in late 2023.
 
-Then it was forked and upgraded bt MaciejDotDev.
+Then it was forked and upgraded by MaciejDotDev.
 
 And then, forked by me, toni20k5267, to have Shadow The Hedgehog, the Ultimate Lifeform :333
 
