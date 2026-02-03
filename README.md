@@ -31,6 +31,3 @@ So, basically, i got some Shadow images from the internet, edited them to have a
 
 # HOW TO GET AND INSTALL THE EXTENSION
 you download the zip file, you unpack it, you go to chrome://extensions, you turn on Developer Mode, you click load unpacked and you select the folder in which the extension is in(the one where README.md is)
-
-<br><br>
-## As much as i would love to get this extension to the Google Chrome Web Store, I won't try because of copyrights Sega holds over Shadow. I dont wanna screw with that, nor do I have the time.
